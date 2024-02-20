@@ -1,0 +1,75 @@
+@media (max-width: 903px) {
+
+    .bloco1 {
+        width: 50%;
+        right: 20%;
+    }
+
+    .bloco2 {
+        width: 70%;
+        right: 10%;
+        top: 37%
+    }
+}
+
+@media  (max-width: 1024px) {
+    .bloco1 {
+        width: 50%;
+        right: 20%;
+        
+    }
+
+    .bloco2 {
+        width: 70%;
+        right: 10%;
+        top: 38%
+    }
+}
+
+@media (max-width: 414px) {
+
+    img {
+        overflow: hidden;
+    }
+
+.bloco1 {
+    position: absolute;
+    width: 80%;
+}
+
+.bloco1 {
+    margin-top: 300px;
+    left: -300px;
+}
+
+.bloco2 {
+    position: absolute;
+    width: 150%;
+    margin-top: 200px;
+    display: flex;
+    left: -800px;
+}
+
+.barra {
+    top: 30px;
+}
+
+.bloco2 .esdi h2,h3 {
+    display: flex;
+    margin-top: 10%;
+}
+
+.bloco2 .esdi h3 {
+    display: flex;
+    margin-left: 80%;
+}
+
+}
+
+@media (max-width: 360px) {
+
+    .bloco2 {
+        width: 180%;
+        height: 200px;
+    }
+}

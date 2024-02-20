@@ -1,0 +1,102 @@
+.bloco1 {
+    width: 20%;
+    background-color: hsl(228, 56%, 26%);
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px 90px 10px 10px;
+}
+
+.bloco1 {
+    margin: 0 auto;
+    margin-top: 350px;
+    margin-left: 350px;
+    position: absolute;
+}
+
+.bloco1 .logo img {
+    padding: 30px 30px 30px;
+}
+
+
+.fundo img {
+    float: inline-end;
+    width: 100%;
+    margin-top: 396px;
+}
+
+.bloco1 .icones img {
+    background-color: hsl(229, 57%, 11%);
+    display: inline-block;
+    padding: 20px 20px 20px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.bloco2 {
+    position: absolute;
+    background-color: hsl(228, 56%, 26%) ;
+    width: 33%;
+    height: 16%;
+    margin: 0 auto;
+    display: flex;
+    margin-left: 800px;
+    margin-top: 19%;
+}
+
+.bloco2 .textocima{
+    display: flex;
+    padding: 30px;
+    padding-top: 21px;
+}
+
+.bloco2 {
+    border-radius: 10px;
+}
+
+.bloco2 .barra {
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 4.9%;
+    border-radius: 30px;
+    width: 560px;
+    height: 20px;
+    background-color: hsl(229, 57%, 11%);
+}
+
+.bloco2 .barra .gradient {
+    width: 400px;
+    height: 20px;
+    border-radius: 30px;
+    position: absolute;
+    background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+}
+
+.bloco2 .barra .ponto {
+    width: 20px;
+    height: 20px;
+    border-radius: 40px;
+    margin-left: 379px;
+    background-color: white;
+}
+
+.bloco2 .esdi {
+    width: 100%;
+    font-size: 10px;
+    padding: 30px;
+    margin-top: 9%;
+    position: absolute;
+    display: inline;
+}
+
+.bloco2 .esdi h3 {
+    font-size: 14px;
+    margin-left: 520px;
+    margin-top: -30px;
+}
+
+.bloco .balao h1,span {
+    position: absolute;
+    width: 50%;
+    margin-left: 300px;
+   margin-top: -40px;
+}
